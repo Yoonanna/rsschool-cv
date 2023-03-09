@@ -23,13 +23,11 @@
 
 ### Language:
 #### English (Pre-Intermediate level)
-
 ********** 
 ### Education:
 #### "Belarusian State Medical University"
 ##### 2015-2021, Doctor
 ********** 
-
 ### Code:
 ```
 "Nickname Generator"
