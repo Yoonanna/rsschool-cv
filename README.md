@@ -1,1 +1,1 @@
-# https://Yoonanna.github.io/rsschool-cv/cv
+# https://Yoonanna.github.io/rsschool-cv/
