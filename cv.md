@@ -4,8 +4,6 @@
 ### gmail: yanykovaanya@gmail.com 
 ### GitHub: Yoonanna
 ********* 
-
-
 ### Profile:
 #### I am a student of "The Rolling Scopes School",
 #### studying web development and I want to be a front-end developer.
